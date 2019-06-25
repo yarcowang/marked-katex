@@ -2,7 +2,7 @@
   "name": "markedx",
   "description": "markedx based on marked with katex enabled",
   "author": "Yarco Wang",
-  "version": "0.6.2",
+  "version": "1.6.2",
   "main": "./lib/marked.js",
   "bin": "./bin/marked",
   "man": "./man/marked.1",
