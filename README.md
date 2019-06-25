@@ -1,11 +1,11 @@
-# Markedx
+# Marked-Katex
 
 This is a forked version from [Marked](https://marked.js.org).
 It adds [Katex](https://github.com/KaTeX/KaTeX) supporting.
 
 ## Installation
 
-`npm install markedx`
+`npm install marked-katex`
 
 ## Added Feature
 

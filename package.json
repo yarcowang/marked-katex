@@ -1,6 +1,6 @@
 {
-  "name": "markedx",
-  "description": "markedx based on marked with katex enabled",
+  "name": "marked-kalex",
+  "description": "marked-katex based on marked with katex enabled",
   "author": "Yarco Wang",
   "version": "1.6.2",
   "main": "./lib/marked.js",
@@ -12,20 +12,20 @@
     "man/",
     "marked.min.js"
   ],
-  "repository": "git@github.com:yarcowang/markedx.git",
+  "repository": "git@github.com:yarcowang/marked-katex.git",
   "license": "MIT",
   "keywords": [
     "markdown",
     "markup",
     "html",
-    "latex",
+    "tex",
     "katex"
   ],
   "tags": [
     "markdown",
     "markup",
     "html",
-    "latex",
+    "tex",
     "katex"
   ],
   "devDependencies": {
