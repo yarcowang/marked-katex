@@ -1,7 +1,7 @@
 {
-  "name": "marked",
-  "description": "A markdown parser built for speed",
-  "author": "Christopher Jeffrey",
+  "name": "markedx",
+  "description": "markedx based on marked with katex enabled",
+  "author": "Yarco Wang",
   "version": "0.6.2",
   "main": "./lib/marked.js",
   "bin": "./bin/marked",
@@ -12,21 +12,21 @@
     "man/",
     "marked.min.js"
   ],
-  "repository": "git://github.com/markedjs/marked.git",
-  "homepage": "https://marked.js.org",
-  "bugs": {
-    "url": "http://github.com/markedjs/marked/issues"
-  },
+  "repository": "git@github.com:yarcowang/markedx.git",
   "license": "MIT",
   "keywords": [
     "markdown",
     "markup",
-    "html"
+    "html",
+    "latex",
+    "katex"
   ],
   "tags": [
     "markdown",
     "markup",
-    "html"
+    "html",
+    "latex",
+    "katex"
   ],
   "devDependencies": {
     "@markedjs/html-differ": "^2.0.1",
@@ -61,5 +61,8 @@
   },
   "engines": {
     "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "katex": "^0.10.2"
   }
 }
