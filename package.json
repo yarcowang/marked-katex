@@ -2,7 +2,7 @@
   "name": "marked-katex-yco",
   "description": "marked-katex based on marked with katex enabled by yarco",
   "author": "Yarco Wang",
-  "version": "1.6.2",
+  "version": "1.6.2-fix",
   "main": "./lib/marked.js",
   "bin": "./bin/marked",
   "man": "./man/marked.1",
